@@ -71,7 +71,7 @@ console.log("alphabet key");
 function aplhabetkey()
 {
 	//upload respective image with the message. 
-img_image = "alpkey.png";
+img_image = "Alpkey.png";
 add();
 }
 function numberkey()
@@ -81,7 +81,7 @@ add();
 }
 function arrowkey()
 {
-	img_image = "arrkey.png";
+	img_image = "Arrkey.png";
 add();
 }
 function specialkey()
